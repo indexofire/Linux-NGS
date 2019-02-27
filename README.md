@@ -4,7 +4,7 @@
 
 ## Topic
 
-- 选择电脑
+- [选择电脑](01_computer.md)
 - 安装Archlinux操作系统
 - 配置i3桌面环境
 - 配置
