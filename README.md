@@ -6,6 +6,6 @@
 
 - [选择电脑](01_computer.md)
 - [安装Linux操作系统](02_install-linux.md)
-- 配置i3桌面环境
-- 配置
+- [配置桌面环境](03_install-wm.md)
+- 配置应用软件
 - 构建下载工具环境
